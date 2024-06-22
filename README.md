@@ -36,6 +36,3 @@ Once the application is running, you can access it by opening your web browser a
 
 If you're interested in contributing to this full stack web application, please feel free to submit a pull request or open an issue. Your contributions are always welcome!
 
-## License
-
-This full stack web application is licensed under the [MIT License](https://opensource.org/licenses/MIT). You're free to use it in your own projects or modify it as needed.
